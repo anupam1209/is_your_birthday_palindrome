@@ -160,8 +160,8 @@ function clickHandler(e){
 
 showBtnRef.addEventListener("click",clickHandler);
 
-var date = {
-    day: 28, month: 2, year:2020
-};
+// var date = {
+//     day: 28, month: 2, year:2020
+// };
 
 // console.log(getNextPalindromeDate(date));
